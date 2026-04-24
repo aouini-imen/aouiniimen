@@ -32,9 +32,7 @@
 ![Hotix](https://img.shields.io/badge/-Hotix_PMS-6A1B9A?style=for-the-badge)
 ![NVR](https://img.shields.io/badge/-NVR%20%26%20IP%20Cameras-455A64?style=for-the-badge)
 
-### 💻 Scripting
-![PowerShell](https://img.shields.io/badge/-PowerShell-012456?style=for-the-badge&logo=powershell)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 
 ---
 
@@ -71,10 +69,10 @@ Zabbix / Grafana implementation for real-time monitoring
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/aouini-imen-075325202/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:aouiniimen678@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
