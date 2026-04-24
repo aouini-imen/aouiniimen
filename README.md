@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AOUINI IMEN</h1>
 <h3 align="center">💼 IT Supervisor | 🖧 Network & Systems Engineer | 🔐 IT Security Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
 ---
 
 ## 🚀 About Me
